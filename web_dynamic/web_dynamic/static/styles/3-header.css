@@ -1,0 +1,10 @@
+.available {
+  background-color: #ff545f; /* Red background for unavailable */
+  width: 40px;
+  height: 40px;
+  border-radius: 50%; /* Circle shape */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%); /* Center vertically */
+  right: 30px; /* 30px from the right border */
+}
